@@ -1,4 +1,4 @@
-I'm Lars, full time full stack software engineer.
+I'm Lars, full time full stack engineer.
 
 ## Things I work on
 ### Object Tracking
